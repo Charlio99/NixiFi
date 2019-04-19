@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name nixie)(type KiCad)(uri ${KIPRJMOD}/libraries/nixie_tube.pretty)(options "")(descr ""))
+  (lib (name russian-nixies)(type KiCad)(uri ${KIPRJMOD}/libraries/russian-nixies.pretty)(options "")(descr ""))
+  (lib (name nixie-psu)(type KiCad)(uri ${KIPRJMOD}/libraries/nixie-psu.pretty)(options "")(descr ""))
+)
